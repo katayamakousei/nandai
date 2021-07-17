@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta charset="utf-8">
+   <title>あほ！</title>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+ </head>
+ <body>   
+   <section class="hero" style="background: black">
+ 　<div class="hero-body">
+   <p class="title">
+     <font color="white">
+     あほ！
+     </font>
+   </p>
+ </div>
+</section>
+ </body>
+</html>
